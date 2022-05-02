@@ -10,3 +10,9 @@ This short 6 min lesson walks you through on the specific details regarding open
 # Lesson 18: A Walkthrough of the Xcode Development Environment
 In this lesson, we are walked through the different panes and views of Xcode.
 We also are directed to the Xcode shortcuts https://www.appbrewery.co/p/ios-course-resources/
+* Default View:
+1. Status View at the top
+2. Navigation pane on the left
+3. Inspector pane on the right
+4. Document outline (pop up in middle)
+5. Debug area (pop up at bottom)
